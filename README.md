@@ -14,7 +14,7 @@ This mid-decade surge likely reflects increased global digital reliance, geopoli
 
 ## Yearly Breakdown (2015–2024)
 
-| Year | Number of Attacks | YoY Absolute Change | YoY % Change |
+| Year | Number of Attacks | Year over Year (YoY) Absolute Change | YoY % Change |
 |------|-------------------|---------------------|--------------|
 | 2015 | 43                | –                   | –            |
 | 2016 | 44                | +1                  | +2.3%        |
