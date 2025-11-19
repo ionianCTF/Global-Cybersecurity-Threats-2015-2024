@@ -266,14 +266,6 @@ Resolution times are recorded in hours and range from a minimum of 1 hour to a m
 **Has adoption of advanced defenses (AI/Encryption) increased over time, and does it reduce impact?**  
 AI adoption grew from ~12% in 2015 to ~28% in 2024, but it has not produced measurable reductions in resolution time or financial loss.
 
-| Defense            | Times Used | Avg Resolution (hrs) | Avg Loss (M$) |
-|--------------------|------------|----------------------|---------------|
-| Firewall           | 585        | **35.7**             | 50.1          |
-| AI-based Detection | 583        | 36.6                 | 50.3          |
-| Antivirus          | 628        | 36.6                 | 50.2          |
-| Encryption         | 592        | 36.6                 | 50.4          |
-| VPN                | 612        | 36.9                 | 50.0          |
-
 ### Impact & Damage Assessment
 
 **What is the relationship (correlation) between number of affected users and financial loss?**  
